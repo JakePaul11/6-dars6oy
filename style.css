@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    color: white;
+    background-color:  lightslategrey;
+}
+
+.row {
+    margin-top: 50px;
+    width: 80%;
+    margin: 0 auto;
+    background-color: blue;
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 70px;
+}
+
+img {
+    border-radius: 90px;
+}
+
+button {
+    width: 200px;
+    padding: 10px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
